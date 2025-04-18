@@ -19,6 +19,9 @@ public class PaymentDTO {
         this.moment = p.getMoment();
     }
 
+    public PaymentDTO() {
+    }
+
     public Long getId() {
         return id;
     }
