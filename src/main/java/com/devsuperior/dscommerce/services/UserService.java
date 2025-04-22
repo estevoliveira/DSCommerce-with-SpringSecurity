@@ -1,7 +1,7 @@
 package com.devsuperior.dscommerce.services;
 
 
-import com.devsuperior.dscommerce.dto.UserDTO;
+import com.devsuperior.dscommerce.entities.dto.UserDTO;
 import com.devsuperior.dscommerce.entities.Role;
 import com.devsuperior.dscommerce.entities.User;
 import com.devsuperior.dscommerce.projection.UserDetailsProjection;

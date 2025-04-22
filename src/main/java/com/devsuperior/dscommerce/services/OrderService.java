@@ -1,7 +1,7 @@
 package com.devsuperior.dscommerce.services;
 
-import com.devsuperior.dscommerce.dto.OrderDTO;
-import com.devsuperior.dscommerce.dto.OrderItemDTO;
+import com.devsuperior.dscommerce.entities.dto.OrderDTO;
+import com.devsuperior.dscommerce.entities.dto.OrderItemDTO;
 import com.devsuperior.dscommerce.entities.*;
 import com.devsuperior.dscommerce.repositories.OrderItemRepository;
 import com.devsuperior.dscommerce.repositories.OrderRepository;

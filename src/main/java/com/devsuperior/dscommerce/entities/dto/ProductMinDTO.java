@@ -1,4 +1,4 @@
-package com.devsuperior.dscommerce.dto;
+package com.devsuperior.dscommerce.entities.dto;
 
 import com.devsuperior.dscommerce.entities.Product;
 

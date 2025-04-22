@@ -1,7 +1,7 @@
 package com.devsuperior.dscommerce.controllers;
 
-import com.devsuperior.dscommerce.dto.ProductDTO;
-import com.devsuperior.dscommerce.dto.ProductMinDTO;
+import com.devsuperior.dscommerce.entities.dto.ProductDTO;
+import com.devsuperior.dscommerce.entities.dto.ProductMinDTO;
 import com.devsuperior.dscommerce.services.ProductService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
